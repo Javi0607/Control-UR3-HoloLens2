@@ -5,4 +5,6 @@ The code created for my final project is being shared. It's a Unity project that
 ![image](https://github.com/user-attachments/assets/fd0f6b05-dfcb-4e20-b3e8-cfee7476dbb0)
 
 
-https://oa.upm.es/82344/
+Project Report: https://oa.upm.es/82344/3/TFG_J_DE_H_G.pdf
+
+
